@@ -1,2 +1,2 @@
 # Bioinformatics
-series of small python programs written to solve various coding challenges presented by the Rosalind bioinformatics platform
+This is a series of small python programs written to solve various coding challenges presented in the Rosalind bioinformatics platform
